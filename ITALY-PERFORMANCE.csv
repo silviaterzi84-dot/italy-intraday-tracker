@@ -1,1 +1,2 @@
 data,ticker,nome,direzione,grade,score,entry_low,entry_high,entry_ref,stop,target1,target2,innescato,prezzo_apertura,max_giornata,min_giornata,prezzo_1700,pnl_segnale_pct,pnl_piano_pct,piano_uscita,esito,note
+2026-06-17,IGD.MI,IGD SIIQ,LONG,B,63,3.70,3.80,3.75,3.60,3.95,4.10,Y,3.70,3.79,3.655,3.79,1.07,1.07,CLOSE,WIN,prezzo apertura stimato da prev. close (ND direttamente); prezzo ~17:00=3.79 ultimo disponibile; max 3.79 non ha raggiunto T1=3.95
